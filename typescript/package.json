@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/command-line-args": "^5.2.3",
     "@types/node": "^22.10.10",
+    "command-line-args": "^6.0.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.7.3"
   }
